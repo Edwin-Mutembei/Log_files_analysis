@@ -1,0 +1,2 @@
+time="2020-03-18T14:40:30Z" level=error msg="Database stream initialisation failed. Have you tried installing the WAL2JASON plugin?" file="corp/application1/task1.go:96" func=corp/application1/task1.Dblogger kind=application
+

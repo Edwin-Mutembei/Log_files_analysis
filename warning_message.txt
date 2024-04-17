@@ -1,0 +1,8 @@
+time="2020-03-18T14:40:31Z" level=warning msg="Connection to hostA.local failed: host unreachable" file="corp/application1/task1.go:100" func=corp/application1/task1.Dblogger kind=application
+
+time="2020-03-18T14:40:31Z" level=warning msg="Connection to hostA.local failed: host unreachable" file="corp/application1/task1.go:102" func=corp/application1/task1.Dblogger kind=application
+
+time="2020-03-18T14:40:31Z" level=warning msg="Connection to hostB.local failed: Could not resolve host" file="corp/application1/task1.go:104" func=corp/application1/task1.Dblogger kind=application
+
+time="2020-03-18T14:40:38Z" level=warning msg="Failed to write record, duplicate key violation for primary key" file="corp/application1/task1.go:114" func=corp/application1/task1.Dblogger kind=application
+
