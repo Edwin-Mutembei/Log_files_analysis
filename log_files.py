@@ -1,12 +1,12 @@
 
 
-import re
+import re               # regular expression - re
 
  #Creates an empty list wherein you can append error logs.
-error = [] 
+error = []   # Fatal error logs
 
  #Creates an empty list wherein you can add warning logs.
-warning = [] 
+warning = []        # Script error logs
  
  #Opens and reads the source file in this case the given txt file or the log directory.
 with open('log1.txt', "r") as f:
